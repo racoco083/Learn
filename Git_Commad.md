@@ -149,6 +149,9 @@ git tag -a 1.1.0. -m "bug fix"
 ### git tag
 - 태그의 목록을 보여준다.
 
+### git rm -r filename
+- add된 파일을 지운다.
+
 ### git tag -d "태그이름"
 - 특정 태그를 지운다.
 
