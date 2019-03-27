@@ -180,3 +180,8 @@ https://www.youtube.com/watch?v=YshvUGgF_3o
 ※ 소스코드에서 blame을 클릭한 뒤 왼쪽 특정 commit을 클릭하면 밑의 화면이 나온다. 협업시 코드에 comment를 달 수 있다.
 
 ![image](https://user-images.githubusercontent.com/21019088/50052413-0776db80-0167-11e9-8491-7742414ea07a.png)
+
+## :star: git push origin develop(branch) 
+이런식으로 하면 원격저장소에 commit한 것들이 update 되지 않는다.
+master branch에 merge한 후 git push origin master를 해야 update가 된다.
+
